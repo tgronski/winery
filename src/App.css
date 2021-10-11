@@ -1,0 +1,30 @@
+header {
+  width: 100%;
+  position: relative;
+  top: 0;
+  background-position: 43% 45%;
+}
+@import url("https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;800&display=swap");
+a {
+  text-decoration: none;
+}
+.Main,
+.Logo > a,
+ul > li > a:active,
+ul > li > a:hover,
+ul > li > a:visited,
+ul > li > a {
+  /* background-color: rgb(241, 242, 230); */
+  color: black;
+  /* color: rgb(241, 242, 230); */
+}
+.Main {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+* {
+  font-family: "Kaisei Tokumin", serif;
+}
+/* background-color: rgba(154, 179, 154, 0.475); */

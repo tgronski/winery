@@ -1,0 +1,9 @@
+#Join {
+  text-align: center;
+  width: 80%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+
+  flex-direction: column;
+}

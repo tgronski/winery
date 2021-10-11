@@ -1,0 +1,12 @@
+#Nav {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.Selected {
+  text-decoration: underline;
+}
+.NotSelected {
+  text-decoration: none;
+}
